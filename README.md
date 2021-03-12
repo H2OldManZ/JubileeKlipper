@@ -30,5 +30,7 @@ Prusa slicer will retract 10.6mm then dock the tool.   After picking up the next
   
   
 Credits 
-Disocrd User @Nanotechs Firmware - https://discord.com/channels/627982902738681876/667249155340763147/806707052473745418
-Discord User @ImpC's Firmware - https://github.com/SteveJWallace/JubileeKlipper
+
+-Disocrd User @Nanotechs Firmware - https://discord.com/channels/627982902738681876/667249155340763147/806707052473745418
+
+-Discord User @ImpC's Firmware - https://github.com/SteveJWallace/JubileeKlipper
