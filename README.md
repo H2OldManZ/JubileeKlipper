@@ -2,7 +2,7 @@
 
 Klipper custom firmware for Jubilee with 5 bondtech tools.
 Board is a Bigtreetech GTR with m5 expansion.
-Based on Nanotechs firmware, with a few changes.
+Based on Nanotechs and ImpC firmware, with a few changes.
 
 -Printer is slightly higher than stock at around 400mm build height.
 
@@ -27,3 +27,8 @@ Will update when done.
 
 Ex.  retarction length = .6    Tool change retraction length =10  (length of heat chamber) 
 Prusa slicer will retract 10.6mm then dock the tool.   After picking up the next tool, it will preform the wipe , but we need to return the retraction to .6 before it gets back because the first thing it will do is de-retract the retraction distance. (.6)     So at the end of the wipe, the tool is set back to the retraction distance that is set in the tools.cfg for the respective tool.  
+  
+  
+Credits 
+Disocrd User @Nanotechs Firmware - https://discord.com/channels/627982902738681876/667249155340763147/806707052473745418
+Discord User @ImpC's Firmware - https://github.com/SteveJWallace/JubileeKlipper
